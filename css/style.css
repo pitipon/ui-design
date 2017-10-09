@@ -1,4 +1,10 @@
+/*Google Fonts*/
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat:400,700");
+
+/*Components Design*/
+@import url("components/avatar.css");
+@import url("components/button.css");
+
 
 body {
   font-family: "Open Sans", "Helvetica", "sans-serif";
